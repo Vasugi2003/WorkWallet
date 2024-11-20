@@ -1,6 +1,6 @@
 **WORK WALLET**
 ## Overview
-The **Piece Earning Calculator** is a Java console application designed to help track and manage piecework earnings on a weekly basis. It allows users to record daily production data, calculate weekly earnings, and organize records efficiently. The application connects to a MySQL database for persistent data storage and retrieval.
+The **WORK WALLET** is a Java console application designed to help track and manage piecework earnings on a weekly basis. It allows users to record daily production data, calculate weekly earnings, and organize records efficiently. The application connects to a MySQL database for persistent data storage and retrieval.
 
 ### Features
 1. **Add Data**: Enter daily records of production, including date, day, and the number of pieces completed.
@@ -24,12 +24,12 @@ The **Piece Earning Calculator** is a Java console application designed to help 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Piece_Earning_Calculator.git
+           https://github.com/Vasugi2003/WorkWallet
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd Piece_Earning_Calculator
+   cd WotkWallet
    ```
 
 3. **Set Up Database**:
@@ -115,19 +115,6 @@ CREATE TABLE pieces (
     pieces INT NOT NULL
 );
 ```
-
----
-
-## Screenshots
-
-### Main Menu
-![Main Menu](https://via.placeholder.com/600x400?text=Main+Menu)
-
-### Add Data
-![Add Data](https://via.placeholder.com/600x400?text=Add+Data)
-
-### Total Earnings
-![Total Earnings](https://via.placeholder.com/600x400?text=Total+Earnings)
 
 ---
 
