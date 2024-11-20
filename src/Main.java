@@ -8,7 +8,7 @@ public class Main {
         // Database credentials
         String url = "jdbc:mysql://localhost:3306/WeeklyEarnings";
         String username = "root";  // Change to your MySQL username
-        String password = "root";  // Change to your MySQL password
+        String password = "your_password";  // Change to your MySQL password
 
         try {
             // Load JDBC Driver
