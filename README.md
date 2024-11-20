@@ -1,6 +1,6 @@
 **WORK WALLET**
 ## Overview
-The **WORK WALLET** is a Java console application designed to help track and manage piecework earnings on a weekly basis. It allows users to record daily production data, calculate weekly earnings, and organize records efficiently. The application connects to a MySQL database for persistent data storage and retrieval.
+The **WORK WALLET** is a Java console application designed to help track and manage checking work earnings in a textile induatry on a weekly basis. It allows users to record daily production data, calculate weekly earnings, and organize records efficiently. The application connects to a MySQL database for persistent data storage and retrieval.
 
 ### Features
 1. **Add Data**: Enter daily records of production, including date, day, and the number of pieces completed.
